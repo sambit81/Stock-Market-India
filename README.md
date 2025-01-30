@@ -38,7 +38,7 @@ Ensure you have the following installed on your machine:
    - Go to [Indian Stock Market API](https://indianapi.in/indian-stock-market) and generate an API key.
    - Create a `.env` file in the root directory and add the following:
      ```env
-     APIKEY=your_generated_api_key
+     APIKEY=<your_generated_api_key>
      ```
 
 4. **Start the Server:**
