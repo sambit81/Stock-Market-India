@@ -60,16 +60,16 @@ Stock Market India/
 │   ├── Dark Mode.gif
 │   ├── Market Trends.gif
 │   ├── Mobile View.gif
-├── index.js                  # Main entry point of the application
-├── package.json              # Project metadata and dependencies
-├── package-lock.json         # Lock file for dependencies
 ├── public/                   # Static assets like CSS files
 │   ├── styles/
 │   │   └── main.css          # Styling for the main pages
 ├── views/                    # EJS templates for rendering UI
 │   ├── index.ejs             # Dashboard template
-├── .env                      # Environment variables for API configuration
 ├── README.md                 # Documentation for the project
+├── index.js                  # Main entry point of the application
+├── package.json              # Project metadata and dependencies
+├── package-lock.json         # Lock file for dependencies
+├── .env                      # Environment variables for API configuration
 ```
 
 ---
