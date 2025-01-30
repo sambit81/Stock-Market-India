@@ -25,7 +25,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sambit81/Stock-Market-India.git
    cd Stock-Market-India
    ```
 
@@ -55,6 +55,11 @@ Ensure you have the following installed on your machine:
 
 ```
 Stock Market India/
+├── gifs/                     # GIFs demonstrating app functionality
+│   ├── Search Stocks.gif
+│   ├── Dark Mode.gif
+│   ├── Market Trends.gif
+│   ├── Mobile View.gif
 ├── index.js                  # Main entry point of the application
 ├── package.json              # Project metadata and dependencies
 ├── package-lock.json         # Lock file for dependencies
@@ -65,7 +70,6 @@ Stock Market India/
 │   ├── index.ejs             # Dashboard template
 ├── .env                      # Environment variables for API configuration
 ├── README.md                 # Documentation for the project
-├── gifs/                     # GIFs demonstrating app functionality
 ```
 
 ---
